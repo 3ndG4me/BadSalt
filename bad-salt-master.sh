@@ -8,3 +8,6 @@
 sudo yum install https://repo.saltstack.com/yum/redhat/salt-repo-latest-2.el7.noarch.rpm 
 sudo yum install salt-master
 wget -O - https://raw.githubusercontent.com/3ndG4me/BadSalt/master/bad-master.conf > /etc/salt/master
+
+
+sudo systemctl enable salt-master --now
