@@ -4,10 +4,10 @@ A repo containing some stagers and setup scripts for configuring Salt Stack to b
 ## WIP (Currently only has PoC scripts, nothing fancy, very basic...)
 TODO:
 - ~CentOS/RHEL Support~
-- Kali/Debian Support
+- ~Kali/Debian Support~
 - ~Ubuntu Support~
 - MacOS Support
 - Create Stager for Windows
-- Create Stager for Debian/Ubuntu/etc... Linux
+- ~Create Stager for Debian/Ubuntu/etc... Linux~
 - Create Stager for MacOS
 - Create a Usage Guide
