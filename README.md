@@ -5,7 +5,7 @@ A repo containing some stagers and setup scripts for configuring Salt Stack to b
 TODO:
 - ~CentOS/RHEL Support~
 - Kali/Debian Support
-- Ubuntu Support
+- ~Ubuntu Support~
 - MacOS Support
 - Create Stager for Windows
 - Create Stager for Debian/Ubuntu/etc... Linux
