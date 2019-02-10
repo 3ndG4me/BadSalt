@@ -6,7 +6,6 @@ TODO:
 - ~CentOS/RHEL Support~
 - ~Kali/Debian Support~
 - ~Ubuntu Support~
-- MacOS Support
 - Create Stager for Windows
 - ~Create Stager for Debian/Ubuntu/etc... Linux~
 - Create Stager for MacOS

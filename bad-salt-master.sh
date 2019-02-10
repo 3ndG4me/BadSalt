@@ -1,9 +1,7 @@
-
 echo "Pick your base OS:"
 echo "0 = Debian/Kali"
 echo "1 = CentOS/RHEL"
 echo "2 = Ubuntu"
-echo "3 = MacOS"
 
 read INPUT
 
@@ -47,5 +45,5 @@ elif [[ $INPUT -eq 2 ]]; then
 	fi
 	sudo systemctl enable salt-master --now
 else
-	echo "WIP, not supported"
+	echo "Option not supported"
 fi
