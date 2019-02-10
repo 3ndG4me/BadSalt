@@ -18,7 +18,7 @@ if [[ $INPUT -eq 0 ]]; then
 	echo "Download default bad-master.conf from Github? (Y/n)"
 	read CONF
 	if [[ $CONF == 'y' || $CONF == 'Y' ]]; then
-		sudo curl https://raw.githubusercontent.com/3ndG4me/BadSalt/master/bad-master.conf -o /etc/salt/master
+		sudo wget https://raw.githubusercontent.com/3ndG4me/BadSalt/master/bad-master.conf -O /etc/salt/master
 	fi
 	sudo systemctl enable salt-master --now
 elif [[ $INPUT -eq 1 ]]; then
