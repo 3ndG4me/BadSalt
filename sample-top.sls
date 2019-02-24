@@ -1,7 +1,7 @@
 base:
   'kernel:Linux':
-    - match: grains
+    - match: grain
     - post-exploitation.nix.add-users
   'kernel:Windows':
-    - match: grains
+    - match: grain
     - post-exploitation.windows.add-users
