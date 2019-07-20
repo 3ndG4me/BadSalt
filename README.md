@@ -2,7 +2,7 @@
 A repo containing some stagers and setup scripts for configuring Salt Stack to be a "bad"-ass C2
 
 <p align="center">
-  <img src=""/>
+  <img src="https://raw.githubusercontent.com/3ndG4me/BadSalt/master/badsalt-logo.PNG"/>
  </p>
 
 ## WIP (Currently only has PoC scripts, nothing fancy, very basic...)
