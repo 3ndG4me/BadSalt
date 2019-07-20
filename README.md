@@ -1,6 +1,10 @@
 # BadSalt
 A repo containing some stagers and setup scripts for configuring Salt Stack to be a "bad"-ass C2
 
+<p align="center">
+  <img src=""/>
+ </p>
+
 ## WIP (Currently only has PoC scripts, nothing fancy, very basic...)
 TODO:
 - ~CentOS/RHEL Support~
