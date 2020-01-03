@@ -1,4 +1,5 @@
 **Author:** Casey Erdmann (3ndG4me)
+
 **Date Published:** 7/12/2019
 
 SaltStack is robust configuration management utility used by many to achieve DevOps related initiatives in their organizations. Thanks to its open source model, SaltStack can be used by both hobbyist, hackers, and corporations alike. Like any open source tool suite out there, that also means individuals with adversarial intent, be it professional, or malicious, can also take advantage of this tool. In its most simple case, SaltStack can be used by an adversary as a simple Command and Control server (C2 server). However, if SaltStack is used as intended, an educated adversary can easily turn salt “bad” in more ways than simple command and control.
