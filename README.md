@@ -16,3 +16,10 @@ TODO:
 - Create sample post-exploitation "modules"/"recipes" or whatever they're called
 - Create a config generator in GO to make life easier? Automate all the things!
 - Create a Usage Guide
+
+
+
+Presentation from the Red Team Village at DEF CON 27:
+
+
+[https://www.youtube.com/watch?v=ioBAK7hGZi4](https://www.youtube.com/watch?v=ioBAK7hGZi4)
